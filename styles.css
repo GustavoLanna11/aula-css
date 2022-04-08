@@ -1,0 +1,13 @@
+body{
+    background: #3CB371;
+}
+
+p.texto1{
+    color: #0f300b;
+    font-family: Georgia, Times, 'Times New Roman';
+}
+
+p.texto2{
+    color: #0b941e;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow';
+}
